@@ -1,4 +1,4 @@
-lenguage: python
+language: python
 sudo: enable
 dist: trusty
 os: linux
